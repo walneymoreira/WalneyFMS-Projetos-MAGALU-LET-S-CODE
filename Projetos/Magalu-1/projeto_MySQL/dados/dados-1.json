@@ -1,0 +1,1002 @@
+[
+    {
+        "id": "ca728758-9027-4af2-8253-7cbbf50083e6",
+        "preco": "1622.50",
+        "categoria": "pcs"
+    },
+    {
+        "id": "6dfb3cd6-aa63-4238-81b2-8df5b454f587",
+        "preco": "4483.69",
+        "categoria": "livros_importados"
+    },
+    {
+        "id": "e84db4a9-d3e6-4217-97c1-6d2950fc9e39",
+        "preco": "4427.15",
+        "categoria": "pet_shop"
+    },
+    {
+        "id": "cdb8a274-1de6-4919-9534-9b83b252caf3",
+        "preco": "3229.52",
+        "categoria": "eletronicos"
+    },
+    {
+        "id": "1464f8e7-894c-48d6-a8ad-f12854a9dd9f",
+        "preco": "3461.74",
+        "categoria": "construcao_ferramentas_ferramentas"
+    },
+    {
+        "id": "b29423e3-52ff-490b-a4be-56fd738dfb27",
+        "preco": "577.59",
+        "categoria": "pet_shop"
+    },
+    {
+        "id": "6f6113df-588d-410b-8e41-0fe00072a9b6",
+        "preco": "529.48",
+        "categoria": "perfumaria"
+    },
+    {
+        "id": "702af712-8279-4136-a06d-e148381d6e29",
+        "preco": "2361.78",
+        "categoria": "agro_industria_e_comercio"
+    },
+    {
+        "id": "8f0035cf-99c0-4592-afc4-4ad0fe742495",
+        "preco": "4170.37",
+        "categoria": "alimentos"
+    },
+    {
+        "id": "77ad22b5-5017-4730-b2b6-bd1a84d68789",
+        "preco": "3597.56",
+        "categoria": "portateis_casa_forno_e_cafe"
+    },
+    {
+        "id": "26cea180-8ef3-4441-9707-73713f3e933f",
+        "preco": "4051.55",
+        "categoria": "market_place"
+    },
+    {
+        "id": "5dcb267d-f4f8-4af2-9bc0-2ff907174499",
+        "preco": "4571.00",
+        "categoria": "fashion_bolsas_e_acessorios"
+    },
+    {
+        "id": "55921514-369b-4445-bc51-ea979759662b",
+        "preco": "2773.55",
+        "categoria": "utilidades_domesticas"
+    },
+    {
+        "id": "bbd0eaf5-4468-475e-a185-675fe7f77c6d",
+        "preco": "288.74",
+        "categoria": "pcs"
+    },
+    {
+        "id": "34474372-c705-4e63-8407-4c85667345d7",
+        "preco": "868.63",
+        "categoria": "artigos_de_festas"
+    },
+    {
+        "id": "12cbce8d-ab9d-4947-8e5e-5d9323723c60",
+        "preco": "212.49",
+        "categoria": "construcao_ferramentas_iluminacao"
+    },
+    {
+        "id": "1a884edb-4f27-4e4f-8f01-836c47baa200",
+        "preco": "1869.04",
+        "categoria": "fashion_underwear_e_moda_praia"
+    },
+    {
+        "id": "8851cfac-0790-4b6b-a06c-913a2d0343e5",
+        "preco": "3953.12",
+        "categoria": "moveis_quarto"
+    },
+    {
+        "id": "0d13bb18-8f4d-4c09-9232-2c533c373f46",
+        "preco": "4080.26",
+        "categoria": "telefonia_fixa"
+    },
+    {
+        "id": "8b83bc97-ebab-4a7d-b6cf-e5388f5644d8",
+        "preco": "660.92",
+        "categoria": "construcao_ferramentas_construcao"
+    },
+    {
+        "id": "1a60d95d-e4f5-4a7e-8a23-051ebb499f4b",
+        "preco": "4423.00",
+        "categoria": "climatizacao"
+    },
+    {
+        "id": "664a4721-403b-421e-be06-7d8033ac4320",
+        "preco": "3352.46",
+        "categoria": "eletronicos"
+    },
+    {
+        "id": "ef974d87-a35c-4910-a891-233e1dd43194",
+        "preco": "546.87",
+        "categoria": "moveis_quarto"
+    },
+    {
+        "id": "cf260f97-451c-40b4-9092-cd7f039e3899",
+        "preco": "4318.35",
+        "categoria": "malas_acessorios"
+    },
+    {
+        "id": "5b8693dc-b877-46cd-8282-c9a1d883c1b4",
+        "preco": "1710.94",
+        "categoria": "esporte_lazer"
+    },
+    {
+        "id": "d6f36709-9991-4dca-9e56-df6100755337",
+        "preco": "832.39",
+        "categoria": "construcao_ferramentas_seguranca"
+    },
+    {
+        "id": "2a431292-0d33-48d6-a3d9-6214262ddb70",
+        "preco": "73.30",
+        "categoria": "beleza_saude"
+    },
+    {
+        "id": "c4fd8fac-ae47-4063-b9cb-3bcbca07fcbe",
+        "preco": "2629.92",
+        "categoria": "moveis_decoracao"
+    },
+    {
+        "id": "bf22581e-9752-4276-ba16-6e1b88c39717",
+        "preco": "4496.75",
+        "categoria": "eletrodomesticos"
+    },
+    {
+        "id": "81d69bf3-be2a-435b-8ff3-2e8bb33be73a",
+        "preco": "1674.47",
+        "categoria": "eletrodomesticos"
+    },
+    {
+        "id": "0749f51c-5512-4231-b47a-7e5d6fde45b7",
+        "preco": "4745.19",
+        "categoria": "artigos_de_festas"
+    },
+    {
+        "id": "4fbcf3e7-54dd-4524-a4ae-c3459cdfa568",
+        "preco": "4317.45",
+        "categoria": "automotivo"
+    },
+    {
+        "id": "31f47a08-5ba7-4d0d-8196-30b16e2d5f6b",
+        "preco": "1574.36",
+        "categoria": "consoles_games"
+    },
+    {
+        "id": "030814e3-f7a9-46f7-844d-501765cd8676",
+        "preco": "528.54",
+        "categoria": "instrumentos_musicais"
+    },
+    {
+        "id": "89dfc1e0-8e82-4bae-b7be-b39fd2736392",
+        "preco": "810.92",
+        "categoria": "industria_comercio_e_negocios"
+    },
+    {
+        "id": "26c194ef-a1e3-4f82-9367-021cac932515",
+        "preco": "693.00",
+        "categoria": "climatizacao"
+    },
+    {
+        "id": "87654cc1-0ae5-405a-b25a-a9bd1541aad8",
+        "preco": "354.28",
+        "categoria": "alimentos_bebidas"
+    },
+    {
+        "id": "20f84465-8bd5-4a61-8f9e-a34fbc9ec1eb",
+        "preco": "2789.80",
+        "categoria": "cine_foto"
+    },
+    {
+        "id": "d1090550-16de-4100-86a2-1365956760e0",
+        "preco": "4326.07",
+        "categoria": "casa_conforto"
+    },
+    {
+        "id": "e2a052e8-cecc-4b2c-bbad-44153ac0bec8",
+        "preco": "2012.38",
+        "categoria": "artigos_de_natal"
+    },
+    {
+        "id": "a062fae3-ea2d-40de-9245-cbd3b994d7b9",
+        "preco": "3256.38",
+        "categoria": "agro_industria_e_comercio"
+    },
+    {
+        "id": "c2a6d7b8-e0f5-490f-a43f-586cea1edb16",
+        "preco": "4890.85",
+        "categoria": "eletrodomesticos"
+    },
+    {
+        "id": "94ded4ab-b4fb-48cd-8e77-9e521eb5cad0",
+        "preco": "1855.49",
+        "categoria": "moveis_colchao_e_estofado"
+    },
+    {
+        "id": "6600a131-1a9f-4eeb-b48e-98eb7aa29750",
+        "preco": "1063.89",
+        "categoria": "moveis_colchao_e_estofado"
+    },
+    {
+        "id": "ad8f5136-96c5-4017-a07f-dca2e08c87b8",
+        "preco": "4354.95",
+        "categoria": "seguros_e_servicos"
+    },
+    {
+        "id": "858afcfa-2276-48f0-afae-e882193ee865",
+        "preco": "2606.08",
+        "categoria": "instrumentos_musicais"
+    },
+    {
+        "id": "a1f393c0-a085-4191-97bb-096dd0984194",
+        "preco": "4877.21",
+        "categoria": "automotivo"
+    },
+    {
+        "id": "7d156fe5-c007-4ab5-a735-9f1c447955ba",
+        "preco": "3209.26",
+        "categoria": "fashion_calcados"
+    },
+    {
+        "id": "9c7ad1e1-5d0b-4cc3-92fc-55ec4ed96805",
+        "preco": "4822.23",
+        "categoria": "artes_e_artesanato"
+    },
+    {
+        "id": "c14bed95-ff1c-428a-9095-208b1922ee0f",
+        "preco": "241.28",
+        "categoria": "casa_construcao"
+    },
+    {
+        "id": "98671eb8-728a-42d9-8a0e-96620d7a75df",
+        "preco": "504.44",
+        "categoria": "construcao_ferramentas_jardim"
+    },
+    {
+        "id": "00920aa1-9a9d-4801-9695-08d3fa987408",
+        "preco": "936.67",
+        "categoria": "flores"
+    },
+    {
+        "id": "007426ba-f080-4fd9-94ed-ead45f92f441",
+        "preco": "2087.20",
+        "categoria": "cine_foto"
+    },
+    {
+        "id": "fc7fc24e-f1f4-4133-849b-1398f64acb49",
+        "preco": "306.35",
+        "categoria": "fashion_roupa_feminina"
+    },
+    {
+        "id": "16411eca-ef2e-49dc-bbaa-8185f112d9f9",
+        "preco": "3634.43",
+        "categoria": "cama_mesa_banho"
+    },
+    {
+        "id": "446e7c2a-1e45-4dcd-95a4-a66e884f4e8e",
+        "preco": "1881.07",
+        "categoria": "telefonia"
+    },
+    {
+        "id": "8cdc10ff-0674-474e-86a6-d478a5c61333",
+        "preco": "3888.44",
+        "categoria": "cama_mesa_banho"
+    },
+    {
+        "id": "c080e21d-2f55-4409-b502-7da8ac5a51aa",
+        "preco": "3719.07",
+        "categoria": "agro_industria_e_comercio"
+    },
+    {
+        "id": "90476c45-2c61-4611-aac5-100e0f0b1276",
+        "preco": "3280.08",
+        "categoria": "cine_foto"
+    },
+    {
+        "id": "b6fec6bc-a6c4-41f5-86db-f6cc22d6d924",
+        "preco": "1110.49",
+        "categoria": "fashion_roupa_feminina"
+    },
+    {
+        "id": "bdcb6f01-fdf9-49cd-8736-e4bf179de996",
+        "preco": "939.54",
+        "categoria": "portateis_cozinha_e_preparadores_de_alimentos"
+    },
+    {
+        "id": "f942c697-514f-49a5-9310-430405d0ea06",
+        "preco": "4891.37",
+        "categoria": "construcao_ferramentas_seguranca"
+    },
+    {
+        "id": "a212f4e0-dbe8-413f-b996-5ae548fa7a1f",
+        "preco": "3655.59",
+        "categoria": "tablets_impressao_imagem"
+    },
+    {
+        "id": "35c31f33-f65e-4ca4-a6af-8bc20e621ba0",
+        "preco": "4138.29",
+        "categoria": "artigos_de_festas"
+    },
+    {
+        "id": "1ec757aa-42ea-47df-a557-c0b275a15305",
+        "preco": "4179.72",
+        "categoria": "casa_conforto"
+    },
+    {
+        "id": "ad179801-bebd-4878-8b88-5dbe938acc59",
+        "preco": "143.54",
+        "categoria": "construcao_ferramentas_jardim"
+    },
+    {
+        "id": "0b038ef4-0688-4667-ac29-1966a21fe369",
+        "preco": "4138.90",
+        "categoria": "livros_interesse_geral"
+    },
+    {
+        "id": "d11799f7-fd63-4de6-8ed4-34cfb2aa9cd1",
+        "preco": "3126.31",
+        "categoria": "telefonia_fixa"
+    },
+    {
+        "id": "f21ff1ef-7265-4b57-b58f-d4ad2ed64581",
+        "preco": "2733.20",
+        "categoria": "beleza_saude"
+    },
+    {
+        "id": "c2b9c624-1914-40c2-b877-f89ac124eff0",
+        "preco": "3710.03",
+        "categoria": "pcs"
+    },
+    {
+        "id": "f2500f33-024a-4b7d-a02d-5dfa88159fbb",
+        "preco": "1452.18",
+        "categoria": "dvds_blu_ray"
+    },
+    {
+        "id": "6b497449-3dac-449e-a3cd-b9d673aa70c5",
+        "preco": "2720.87",
+        "categoria": "dvds_blu_ray"
+    },
+    {
+        "id": "c2f47d3e-bd37-4106-b0b2-f49eb496ca2f",
+        "preco": "4375.98",
+        "categoria": "casa_conforto"
+    },
+    {
+        "id": "83d0ce1d-71e4-418a-996d-45ee454cca2d",
+        "preco": "3072.89",
+        "categoria": "telefonia"
+    },
+    {
+        "id": "d29f613f-d373-4056-a22e-61faa19475c4",
+        "preco": "3996.86",
+        "categoria": "ferramentas_jardim"
+    },
+    {
+        "id": "990a0387-42d2-4e5e-a64a-635adccbedec",
+        "preco": "4490.80",
+        "categoria": "livros_importados"
+    },
+    {
+        "id": "cf9e4160-c01a-4808-858c-d06eb090c7e9",
+        "preco": "3510.42",
+        "categoria": "telefonia_fixa"
+    },
+    {
+        "id": "49d185ba-7acc-4d46-abff-f439482402f4",
+        "preco": "3724.03",
+        "categoria": "consoles_games"
+    },
+    {
+        "id": "ec522f0b-b7db-44fd-ad5a-3050ac0e33a9",
+        "preco": "585.06",
+        "categoria": "moveis_escritorio"
+    },
+    {
+        "id": "74e45cd5-764b-4fc3-96db-5d314ea30de2",
+        "preco": "4874.16",
+        "categoria": "construcao_ferramentas_jardim"
+    },
+    {
+        "id": "dbeba2db-5b08-495a-a03a-ee77be6b6576",
+        "preco": "1498.65",
+        "categoria": "agro_industria_e_comercio"
+    },
+    {
+        "id": "c6d8cc44-7f8f-4b83-8f98-16907277f692",
+        "preco": "2380.65",
+        "categoria": "artes"
+    },
+    {
+        "id": "6d5bda6d-e3f7-41a5-a006-3182d5c415f4",
+        "preco": "1247.74",
+        "categoria": "telefonia"
+    },
+    {
+        "id": "2bab71da-8750-4ce4-9c77-da6d8a9b4a34",
+        "preco": "2163.40",
+        "categoria": "flores"
+    },
+    {
+        "id": "e086a781-6074-4264-849a-cf085fd7b9c2",
+        "preco": "179.62",
+        "categoria": "eletrodomesticos"
+    },
+    {
+        "id": "950e437b-4b5d-4aae-8cd8-c15ba47ec9bd",
+        "preco": "1107.96",
+        "categoria": "bebidas"
+    },
+    {
+        "id": "af8a206f-1e67-4606-958e-d14c4a030f49",
+        "preco": "680.75",
+        "categoria": "climatizacao"
+    },
+    {
+        "id": "3379a1aa-3a13-422c-bb9f-abcc497f859f",
+        "preco": "995.64",
+        "categoria": "bebidas"
+    },
+    {
+        "id": "1d7b65f0-e0f3-4426-935d-b365517c668b",
+        "preco": "4202.09",
+        "categoria": "fashion_calcados"
+    },
+    {
+        "id": "bfc7e3ca-867e-49ab-b5bf-a65421ccae50",
+        "preco": "623.55",
+        "categoria": "fashion_roupa_masculina"
+    },
+    {
+        "id": "e6223934-20ba-4678-bd63-142d7dd1f36c",
+        "preco": "3302.70",
+        "categoria": "automotivo"
+    },
+    {
+        "id": "7eb5faf1-5413-477a-8608-1df0c9034d7e",
+        "preco": "1627.50",
+        "categoria": "eletrodomesticos"
+    },
+    {
+        "id": "4a65d98e-6d90-404d-9c8e-0430f590829c",
+        "preco": "1367.20",
+        "categoria": "artigos_de_natal"
+    },
+    {
+        "id": "a6f1cbb0-05bb-418a-8a87-77df6bf355e8",
+        "preco": "4691.58",
+        "categoria": "fashion_roupa_masculina"
+    },
+    {
+        "id": "e8d96a63-389d-4acb-b60c-b40b0a0c7b49",
+        "preco": "1667.08",
+        "categoria": "construcao_ferramentas_jardim"
+    },
+    {
+        "id": "455c7553-46e4-45f1-a3f0-631adeb1cd53",
+        "preco": "3308.57",
+        "categoria": "fashion_calcados"
+    },
+    {
+        "id": "884c1fef-5561-4983-9222-7b81376b6fba",
+        "preco": "3322.83",
+        "categoria": "musica"
+    },
+    {
+        "id": "48018907-0e3a-4197-a065-1cccf237fc59",
+        "preco": "710.15",
+        "categoria": "pet_shop"
+    },
+    {
+        "id": "5206a3b8-c72f-432e-875d-288f8ddf0c7c",
+        "preco": "469.07",
+        "categoria": "pet_shop"
+    },
+    {
+        "id": "425b2a6d-af6f-45f3-9918-5c54e65e4b35",
+        "preco": "2050.92",
+        "categoria": "fashion_roupa_feminina"
+    },
+    {
+        "id": "8f436734-9941-4aae-9ded-3010d09bf4fc",
+        "preco": "3653.51",
+        "categoria": "telefonia"
+    },
+    {
+        "id": "93d93eb5-ab1c-4e1b-8b5b-0c2a1fe48fd0",
+        "preco": "1203.70",
+        "categoria": "alimentos_bebidas"
+    },
+    {
+        "id": "8b4c4283-39dc-46ee-8b7c-f268039b73ec",
+        "preco": "1098.04",
+        "categoria": "construcao_ferramentas_construcao"
+    },
+    {
+        "id": "3427e983-ed56-4a83-913b-1d452b75e41f",
+        "preco": "1916.68",
+        "categoria": "esporte_lazer"
+    },
+    {
+        "id": "2e71e2ea-c12f-425b-95d6-6a478f736c43",
+        "preco": "3033.62",
+        "categoria": "perfumaria"
+    },
+    {
+        "id": "9f42bddd-0b4a-4737-9b05-71816e85c4a9",
+        "preco": "1792.80",
+        "categoria": "tablets_impressao_imagem"
+    },
+    {
+        "id": "9f0eb62a-01cf-49f4-8cd2-6f1ba7b11c03",
+        "preco": "4035.05",
+        "categoria": "esporte_lazer"
+    },
+    {
+        "id": "00b47ecd-97c2-42c2-b630-f82e7d1c6968",
+        "preco": "2719.74",
+        "categoria": "relogios_presentes"
+    },
+    {
+        "id": "7141ae3a-99f7-4f35-adb7-aa4b6684c4e9",
+        "preco": "1494.59",
+        "categoria": "construcao_ferramentas_seguranca"
+    },
+    {
+        "id": "6e1de9d6-9fa6-4554-90e4-40a6b75e22b4",
+        "preco": "1321.07",
+        "categoria": "pc_gamer"
+    },
+    {
+        "id": "6682802a-19b2-4250-97f3-3d1b2e0418fa",
+        "preco": "4246.62",
+        "categoria": "construcao_ferramentas_seguranca"
+    },
+    {
+        "id": "88c1ea61-b09c-44fa-8fe9-c2a649ba94df",
+        "preco": "2500.36",
+        "categoria": "agro_industria_e_comercio"
+    },
+    {
+        "id": "66d9b874-7567-4914-85c4-3781e1ff0cdf",
+        "preco": "2842.61",
+        "categoria": "automotivo"
+    },
+    {
+        "id": "0281e35b-d33c-4065-846c-8d652a334a8a",
+        "preco": "4526.09",
+        "categoria": "portateis_casa_forno_e_cafe"
+    },
+    {
+        "id": "60c83fd7-5164-42c9-a60d-7cf712ea4d4f",
+        "preco": "2599.15",
+        "categoria": "sinalizacao_e_seguranca"
+    },
+    {
+        "id": "1d239ad6-6b09-48f4-86d1-54a8b087a608",
+        "preco": "62.79",
+        "categoria": "agro_industria_e_comercio"
+    },
+    {
+        "id": "41237b01-9dfb-4332-a332-4e1f4697dd7b",
+        "preco": "1758.31",
+        "categoria": "portateis_casa_forno_e_cafe"
+    },
+    {
+        "id": "18c07fcb-31fd-4c44-874e-546680a5410a",
+        "preco": "3541.02",
+        "categoria": "bebes"
+    },
+    {
+        "id": "93b4ff6e-74d4-450d-80de-21bb42af197c",
+        "preco": "1270.12",
+        "categoria": "moveis_cozinha_area_de_servico_jantar_e_jardim"
+    },
+    {
+        "id": "cd0223a8-ad18-470b-a86d-9c52d7b993cb",
+        "preco": "2157.57",
+        "categoria": "livros_interesse_geral"
+    },
+    {
+        "id": "93e97e2f-fea2-4f15-b06b-f7a1cb6cdbff",
+        "preco": "444.32",
+        "categoria": "livros_interesse_geral"
+    },
+    {
+        "id": "37b2d2ae-a6d0-4395-acd0-054549dfbb44",
+        "preco": "2753.86",
+        "categoria": "tablets_impressao_imagem"
+    },
+    {
+        "id": "31638c8d-527e-4fa2-b0f0-6c02526c4e67",
+        "preco": "4967.04",
+        "categoria": "livros_interesse_geral"
+    },
+    {
+        "id": "97ca32b3-6498-4c21-9a97-3d940c63c9f0",
+        "preco": "3310.69",
+        "categoria": "agro_industria_e_comercio"
+    },
+    {
+        "id": "076b21a7-43cc-4782-9653-c53b4dfddfd5",
+        "preco": "4802.68",
+        "categoria": "construcao_ferramentas_seguranca"
+    },
+    {
+        "id": "ef364260-aade-40aa-81f4-40bfb03f8c0c",
+        "preco": "523.77",
+        "categoria": "fashion_roupa_infanto_juvenil"
+    },
+    {
+        "id": "bce08b47-1e1c-41f1-85f6-d501cf8e2fdf",
+        "preco": "3575.00",
+        "categoria": "instrumentos_musicais"
+    },
+    {
+        "id": "d8304ad2-bc7d-4d90-882f-866c02bf7b71",
+        "preco": "1862.13",
+        "categoria": "relogios_presentes"
+    },
+    {
+        "id": "632b9f75-3df5-4f18-ae61-030c3cd12b3c",
+        "preco": "1716.43",
+        "categoria": "fashion_roupa_infanto_juvenil"
+    },
+    {
+        "id": "6dc89674-2445-4601-87da-16bf98631e3d",
+        "preco": "3003.71",
+        "categoria": "utilidades_domesticas"
+    },
+    {
+        "id": "f95c25ec-d2c7-44c9-a689-9470c2e686d1",
+        "preco": "4936.11",
+        "categoria": "portateis_cozinha_e_preparadores_de_alimentos"
+    },
+    {
+        "id": "bedd5c03-f88d-4017-a5c2-23be68d65dbc",
+        "preco": "3042.34",
+        "categoria": "eletronicos"
+    },
+    {
+        "id": "e15ab663-6902-41a6-a91c-49d15bd001ec",
+        "preco": "2773.58",
+        "categoria": "relogios_presentes"
+    },
+    {
+        "id": "88423c37-a2fc-4903-9f38-eed4a996519b",
+        "preco": "4001.44",
+        "categoria": "telefonia_fixa"
+    },
+    {
+        "id": "63f7bffd-8aa2-47f1-943c-56f48d5f33e0",
+        "preco": "115.77",
+        "categoria": "alimentos"
+    },
+    {
+        "id": "8ca9fb76-23bb-4866-a680-95441e2132eb",
+        "preco": "3379.29",
+        "categoria": "eletrodomesticos"
+    },
+    {
+        "id": "23308347-6c27-493e-8257-df170c110a12",
+        "preco": "2486.06",
+        "categoria": "moveis_sala"
+    },
+    {
+        "id": "37a1caeb-4ce7-4e65-9b43-2a3ffaa9d004",
+        "preco": "2150.69",
+        "categoria": "audio"
+    },
+    {
+        "id": "af7bfd1e-cf73-4b0d-8dc1-662226bb5107",
+        "preco": "4885.11",
+        "categoria": "moveis_escritorio"
+    },
+    {
+        "id": "986da112-942d-4734-bde1-365560a22cc9",
+        "preco": "3282.37",
+        "categoria": "construcao_ferramentas_construcao"
+    },
+    {
+        "id": "1248e06c-6d82-49fd-b8e1-d488d1df6efe",
+        "preco": "4899.49",
+        "categoria": "pc_gamer"
+    },
+    {
+        "id": "bde6b686-b00d-499a-8248-dffc3238deae",
+        "preco": "2917.02",
+        "categoria": "portateis_cozinha_e_preparadores_de_alimentos"
+    },
+    {
+        "id": "d998afa3-1680-4411-a7c9-47596097ec23",
+        "preco": "2322.67",
+        "categoria": "cds_dvds_musicais"
+    },
+    {
+        "id": "af29f3c3-cc84-411f-a476-388cf56889cb",
+        "preco": "3357.71",
+        "categoria": "artigos_de_natal"
+    },
+    {
+        "id": "5180fe9e-bca9-42e0-b7d8-e0a2bb03fad0",
+        "preco": "3041.99",
+        "categoria": "artes"
+    },
+    {
+        "id": "d0d176c9-6ab8-4d59-9059-f119beb5a2ec",
+        "preco": "2474.38",
+        "categoria": "market_place"
+    },
+    {
+        "id": "d86fbf47-4a01-475e-bde7-9538d1ecb080",
+        "preco": "982.34",
+        "categoria": "eletronicos"
+    },
+    {
+        "id": "6c623de4-35ec-404f-a186-de3e6e8cf7a9",
+        "preco": "368.67",
+        "categoria": "alimentos_bebidas"
+    },
+    {
+        "id": "ba9ecdae-8962-4a14-abf3-58526f93b3e7",
+        "preco": "4526.62",
+        "categoria": "fashion_roupa_masculina"
+    },
+    {
+        "id": "441cccc1-933b-4267-adef-ca3bdf5f369b",
+        "preco": "1451.24",
+        "categoria": "seguros_e_servicos"
+    },
+    {
+        "id": "b2ac7db9-e8b2-4000-b84a-13109009b414",
+        "preco": "4005.56",
+        "categoria": "livros_importados"
+    },
+    {
+        "id": "2bee97e7-9cae-4319-8381-ef6c02213123",
+        "preco": "829.33",
+        "categoria": "artes_e_artesanato"
+    },
+    {
+        "id": "5ca191ed-f583-4495-ae77-be4a78632f7e",
+        "preco": "2241.68",
+        "categoria": "market_place"
+    },
+    {
+        "id": "a15d10d2-a052-4c1f-ad05-21fe279fd916",
+        "preco": "1411.45",
+        "categoria": "cds_dvds_musicais"
+    },
+    {
+        "id": "e4254296-985a-420c-8b75-fb3f74472980",
+        "preco": "1665.84",
+        "categoria": "construcao_ferramentas_iluminacao"
+    },
+    {
+        "id": "c2ef3450-e7c9-4909-b08b-e3957167bfdd",
+        "preco": "4255.02",
+        "categoria": "fraldas_higiene"
+    },
+    {
+        "id": "5e3d1529-0329-47b9-b0b2-c22dcf3c57a7",
+        "preco": "4322.28",
+        "categoria": "artes_e_artesanato"
+    },
+    {
+        "id": "917c5cef-80b4-4727-885f-8f0dd91d7e7f",
+        "preco": "4866.92",
+        "categoria": "consoles_games"
+    },
+    {
+        "id": "000d3c38-be40-4a85-aba2-85b53207fd0d",
+        "preco": "3258.66",
+        "categoria": "casa_conforto"
+    },
+    {
+        "id": "ed7d468d-5156-4b23-973f-3b364685fbb8",
+        "preco": "1137.39",
+        "categoria": "pet_shop"
+    },
+    {
+        "id": "f6693209-612f-4dff-93ea-1bfa47ab332f",
+        "preco": "4186.29",
+        "categoria": "construcao_ferramentas_construcao"
+    },
+    {
+        "id": "39b99753-c189-4102-92d8-0576eef93675",
+        "preco": "46.26",
+        "categoria": "automotivo"
+    },
+    {
+        "id": "cbf79b74-a408-4cb2-af6e-2bd9904e1ba5",
+        "preco": "2375.19",
+        "categoria": "climatizacao"
+    },
+    {
+        "id": "227fe04a-1890-4a80-9db4-d32901d485e3",
+        "preco": "2263.04",
+        "categoria": "moveis_escritorio"
+    },
+    {
+        "id": "a7ee783a-3009-469f-ae17-439c928fc91d",
+        "preco": "96.87",
+        "categoria": "portateis_casa_forno_e_cafe"
+    },
+    {
+        "id": "8a65da78-b33e-48d0-9de4-ef8f1e4e59c1",
+        "preco": "611.31",
+        "categoria": "climatizacao"
+    },
+    {
+        "id": "e76d132a-7d5a-40c4-b474-b4438b54b579",
+        "preco": "426.00",
+        "categoria": "portateis_casa_forno_e_cafe"
+    },
+    {
+        "id": "0fd9d22d-542e-4e94-b614-97fd7a6c6db8",
+        "preco": "3956.80",
+        "categoria": "pet_shop"
+    },
+    {
+        "id": "9c082d96-76ba-47a1-865d-e06d54e4e4ad",
+        "preco": "2545.24",
+        "categoria": "esporte_lazer"
+    },
+    {
+        "id": "45a51f8e-8a0f-41a0-85a8-655afd335344",
+        "preco": "236.47",
+        "categoria": "portateis_casa_forno_e_cafe"
+    },
+    {
+        "id": "d34b240b-df27-456b-9ae1-347e96875d3f",
+        "preco": "1396.99",
+        "categoria": "construcao_ferramentas_iluminacao"
+    },
+    {
+        "id": "021d84c6-48b9-4376-886c-6fb9f119c1d7",
+        "preco": "1879.82",
+        "categoria": "cine_foto"
+    },
+    {
+        "id": "15125628-e80f-42f8-98ca-7db2102ffd06",
+        "preco": "1293.88",
+        "categoria": "brinquedos"
+    },
+    {
+        "id": "fff66602-fadd-471c-a806-5bed89874d16",
+        "preco": "2758.81",
+        "categoria": "sinalizacao_e_seguranca"
+    },
+    {
+        "id": "2a6a93fc-e54c-4221-8090-d9507fed4312",
+        "preco": "4368.95",
+        "categoria": "cama_mesa_banho"
+    },
+    {
+        "id": "8b729b1f-ef8d-4243-8286-c31e24fa5669",
+        "preco": "4347.18",
+        "categoria": "malas_acessorios"
+    },
+    {
+        "id": "7b83b2b0-7b18-464e-ab7b-05f52e1a49c3",
+        "preco": "804.09",
+        "categoria": "fashion_roupa_feminina"
+    },
+    {
+        "id": "639b7f9e-a9d7-40ea-9b8b-e3e4306c0e18",
+        "preco": "4974.17",
+        "categoria": "casa_construcao"
+    },
+    {
+        "id": "ebefffdf-b06a-4366-9945-86e689ffc35b",
+        "preco": "3972.58",
+        "categoria": "agro_industria_e_comercio"
+    },
+    {
+        "id": "b9c62be8-1a9a-4af8-a8b6-455de6fb9093",
+        "preco": "2690.09",
+        "categoria": "seguros_e_servicos"
+    },
+    {
+        "id": "eaaea813-acf5-4704-a7c1-cfb06a0233ba",
+        "preco": "379.66",
+        "categoria": "alimentos"
+    },
+    {
+        "id": "1d1a4e5d-1628-49f7-b53d-7df7413b5d4b",
+        "preco": "1761.11",
+        "categoria": "automotivo"
+    },
+    {
+        "id": "d598e7c8-2c9a-435a-88f1-f19a80678136",
+        "preco": "2855.74",
+        "categoria": "livros_importados"
+    },
+    {
+        "id": "7e653fae-1118-4a7d-9c83-ec3a7725a2a5",
+        "preco": "1194.87",
+        "categoria": "eletrodomesticos"
+    },
+    {
+        "id": "a089ebaa-b82a-4b9c-a3bc-131042b70cc8",
+        "preco": "3770.72",
+        "categoria": "climatizacao"
+    },
+    {
+        "id": "d361e4b6-ef6d-4fda-8ee3-b0c15519e9bc",
+        "preco": "2663.60",
+        "categoria": "fashion_underwear_e_moda_praia"
+    },
+    {
+        "id": "d1de7d10-9e74-420e-9a3e-7f5dff3bb1a1",
+        "preco": "1731.70",
+        "categoria": "ferramentas_jardim"
+    },
+    {
+        "id": "3cb97c6a-925a-43e2-bceb-a6a819882789",
+        "preco": "2780.38",
+        "categoria": "industria_comercio_e_negocios"
+    },
+    {
+        "id": "edea5d12-9021-4f8b-a111-6493bc543d77",
+        "preco": "4667.30",
+        "categoria": "agro_industria_e_comercio"
+    },
+    {
+        "id": "1319db91-8380-4257-aa61-80698c25eb3e",
+        "preco": "2851.83",
+        "categoria": "flores"
+    },
+    {
+        "id": "0b95b05e-eb75-44fb-a062-3bfd323a3f52",
+        "preco": "4610.40",
+        "categoria": "construcao_ferramentas_seguranca"
+    },
+    {
+        "id": "3941025b-7ad9-4231-827f-5fc3ce1b6d8a",
+        "preco": "1609.34",
+        "categoria": "sinalizacao_e_seguranca"
+    },
+    {
+        "id": "e19057a8-583c-4370-848b-39798b95d39b",
+        "preco": "1474.20",
+        "categoria": "construcao_ferramentas_seguranca"
+    },
+    {
+        "id": "bd17b14f-8ebc-46d0-8b26-c4342848e8d5",
+        "preco": "4767.29",
+        "categoria": "portateis_casa_forno_e_cafe"
+    },
+    {
+        "id": "c65a95d9-ed49-49c3-a6c8-bba5ca3691b0",
+        "preco": "2533.48",
+        "categoria": "pet_shop"
+    },
+    {
+        "id": "986e3433-3809-43c7-96fb-1877fd34c4fd",
+        "preco": "3356.71",
+        "categoria": "sinalizacao_e_seguranca"
+    },
+    {
+        "id": "3c9d5bfc-255f-40cc-864b-ae3a254b25d3",
+        "preco": "541.82",
+        "categoria": "alimentos"
+    },
+    {
+        "id": "6c7cf9e5-7221-4cd1-9f1c-5288517d5df4",
+        "preco": "169.72",
+        "categoria": "artes_e_artesanato"
+    },
+    {
+        "id": "d8ad52cb-e77f-4d6e-9ac5-4a17301fc9a6",
+        "preco": "2566.38",
+        "categoria": "automotivo"
+    },
+    {
+        "id": "6cee342f-868f-4f31-b566-b247ce641084",
+        "preco": "4058.12",
+        "categoria": "tablets_impressao_imagem"
+    }
+]
